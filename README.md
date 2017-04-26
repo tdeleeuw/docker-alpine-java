@@ -4,6 +4,7 @@
 
 [![](https://images.microbadger.com/badges/image/anapsix/alpine-java:latest.svg)](https://microbadger.com/images/anapsix/alpine-java:latest)
 
+WARNING: You should not use this image unless you comply to Oracle License (and agree to the terms and conditions) and you comply with the regulation regarding strong cryptography!
 
 Basic [Docker](https://www.docker.com/) image to run [Java](https://www.java.com/) applications.  
 This image is based on [AlpineLinux](http://alpinelinux.org/) to keep the size dow, yet smaller images do exist.  
